@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+Telegrm Bot link: [https://t.me/ailyWeatherReporterbot](https://t.me/ailyWeatherReporterbot)
 ## ADMIN DASHBOARD
 
 dashboard provides the ability to change the bot key  : 
@@ -36,7 +37,7 @@ MongoDB for storing users, blocked users and APIs :
 
 Aditya Srivastava - adityasrivastava0709@gmail.com
 
-Project Link: [https://github.com/shadowmonarch712/waterguy](https://github.com/shadowmonarch712/AST-assignment)
+Project Link: [https://github.com/shadowmonarch712/AST-assignment](https://github.com/shadowmonarch712/AST-assignment)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
